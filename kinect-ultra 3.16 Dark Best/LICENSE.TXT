@@ -1,0 +1,35 @@
+IMPORTANT: LIRE AVANT DE TÉLÉCHARGER, COPIER, INSTALLER OU UTILISER
+
+1. Termes de licence kinect-ultra
+
+  Copyright (c) 2017, Avatar Rousseau Dark Best
+  Tous les droits sont réservés.
+
+  Redistribution et utilisation sous forme source et binaire, avec ou sans
+  modification, sont autorisés à condition que les conditions suivantes soient remplies:
+    * Les redistributions du code source doivent conserver les droits d'auteur ci-dessus
+      avis, cette liste de conditions et l'avertissement suivant.
+    * Les redistributions sous forme binaire doivent reproduire le copyright ci-dessus
+      avis, cette liste de conditions et l'avertissement suivant dans
+      la documentation et / ou d'autres matériaux fournis avec la distribution.
+    * Ni le nom du Avatar Rousseau Dark Best ni les noms de son
+      contributeurs peuvent être utilisés pour approuver ou promouvoir des produits dérivés
+      ce logiciel sans autorisation écrite préalable spécifique.
+
+  CE LOGICIEL EST FOURNI PAR LES DÉTENTEURS DU COPYRIGHT ET LES CONTRIBUTEURS «TEL QUEL» ET
+  TOUTE GARANTIE EXPLICITE OU IMPLICITE, Y COMPRIS, MAIS SANS S'Y LIMITER, LA GARANTIE IMPLICITE
+  LES GARANTIES DE QUALITÉ MARCHANDE ET D'APTITUDE À UN USAGE PARTICULIER SONT
+  DISCLAIMED. EN AUCUN CAS Avatar Rousseau Dark Best NE SERA RESPONSABLE DE TOUT
+  DOMMAGES DIRECTS, INDIRECTS, ACCIDENTELS, SPÉCIAUX, EXEMPLAIRES OU CONSÉCUTIFS
+  (Y COMPRIS, MAIS SANS S'Y LIMITER, LA FOURNITURE DE BIENS OU DE SERVICES DE SUBSTITUTION;
+  PERTE D'UTILISATION, DE DONNÉES OU DE PROFITS; OU INTERRUPTION D'ACTIVITÉ), MAIS CAUSÉS ET
+  SUR TOUTE THÉORIE DE RESPONSABILITÉ, CONTRACTUELLE, RESPONSABILITÉ STRICTE OU DÉLIT
+  (Y COMPRIS LA NÉGLIGENCE OU AUTRE) DÉCOULANT DE QUELQUE MANIÈRE QUE CE SOIT DE L'UTILISATION DE CE
+  LOGICIEL, MÊME SI AVISÉ DE LA POSSIBILITÉ DE TELS DOMMAGES.
+
+2. Autres conditions de licence à appliquer
+
+  Ce produit contient d'autres matériaux protégés par droits d'auteur auxquels le
+  les conditions de licence s'appliquent.
+
+  ------------------

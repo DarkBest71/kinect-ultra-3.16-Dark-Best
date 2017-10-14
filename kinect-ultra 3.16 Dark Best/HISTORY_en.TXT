@@ -1,0 +1,35 @@
+kinect-ultra Historique des modifications
+
+* 4/23/2017 V1.0a
+
+   * Ajout de la version Kinect SDK
+   * Changement de la pose de henshin car la pose de psi n'est plus nécessaire
+
+* 9/18/2017 V0.1f
+
+   * Soutenu bascule en plein écran par [ENTER]
+   * Maintient le rapport d'aspect lors du redimensionnement de la fenêtre
+   * Meilleur rapport d'erreurs lorsque VAO n'est pas supporté
+
+* 2/13/2017 V0.1e
+
+   * Facilite le tournage de Wideshot.
+
+* 20/01/2017 V0.1d
+
+   * Lignes noires fixes affichées dans certaines tailles de fenêtre particulières.
+   * Ajout du mode "Trigger Happy" pour relâcher la détection de la pose afin de déclencher les pouvoirs plus facilement.
+   * Mode miroir ajouté.
+
+
+* 1/12/2017 V0.1b
+
+   * Vérification supplémentaire des capacités du GPU. Ce programme nécessite un support de shader par GPU.
+
+* 1/12/2017 V0.1a
+
+   * Correction de l'option CRT et reconstruite.
+
+* 1/11/2017 V0.1
+
+   * Première sortie!

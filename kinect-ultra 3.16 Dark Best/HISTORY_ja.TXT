@@ -1,0 +1,40 @@
+Histoire de mise a jour kinect-ultra
+
+* 2017/4/23 V 1.0 a
+
+??* Ajout de la version Kienct SDK
+??* La pose de PSI est devenue inutile, change la pose de transformation
+
+* 2017/9/18 V0.1 f
+
+??* Je l'ai fait en plein ecran avec la touche [ENTER]
+??* Le format d'image est maintenu lorsque la taille de la fenetre est modifiee
+??* Message d'erreur ameliore lorsque VAO n'est pas pris en charge
+
+* 2017/2/13 V0.1e
+
+??* Correction de ce jugement de tir large etait trop stricte.
+
+* 2017/1/20 V0.1 d
+
+??* Correction d'un probleme que les lignes noires sont affichees en fonction de la taille de la fenetre.
+??* Ajout d'un mode heureux de declenchement qui rend le jugement de pose libre.
+??* Ajout d'un rabat horizontal de l'ecran.
+
+* 2017/1/14 V0.1c
+
+??* Correction d'une fuite de memoire mysterieuse dependant de la plate-forme.
+????Plusieurs rapports ont ete signales depuis un certain temps et le phenomene de crash est corrige.
+
+* 2017/1/12 V0.1b
+
+??* Verification supplementaire de la fonction GPU. Sans shaders, des erreurs sont apparues.
+
+* 2017/1/12 V0.1a
+
+??* Reconstruisez l'option de bibliotheque d'execution C en la modifiant.
+
+* 2017/1/11 V0.1
+
+??* Finalement sa c'est regle!
+

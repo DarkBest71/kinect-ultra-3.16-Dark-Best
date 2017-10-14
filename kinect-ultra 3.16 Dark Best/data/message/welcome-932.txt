@@ -1,0 +1,16 @@
+Ultra sept avec Kinect! Bienvenue a!
+
+Les cles suivantes peuvent etre utilisees pendant l'execution.
+[ESC] - terminer
+[ENTER] - Bascule en plein ecran.
+[q] [a] - Ajuste la profondeur de l'objet virtuel 3D.
+??????????Veuillez ajuster quand la profondeur de l'Irisragger etc. est mauvaise.
+[s] - Recreez l'image pour l'accrocher.
+??????L'image de prise de vue est prise au demarrage.
+??????S'il vous plait utilisez-le quand il est reflete.
+[f] - Mesurez la frequence d'images et affichez-la sur la console.
+[m] - Fait pivoter l'ecran horizontalement.
+[t] - Trigger Change le mode Happy. (Normal / heureux / plus heureux)
+??????S'il vous plait utilisez-le lorsque le jugement de la pose est severe et qu'aucune technique n'est disponible.
+
+Veuillez attendre que l'initialisation soit terminee ... Amusez-vous bien!
